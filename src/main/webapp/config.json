@@ -1,0 +1,15 @@
+{
+    "templates": [
+        {
+            "id": "Main",
+            "name": "Main",
+            "description": "Main template",
+            "category": "",
+            "keywords": "",
+            "published": false,
+            "type": "page",
+            "thumbnail": "",
+            "screenshots": []
+        }
+    ]
+}
